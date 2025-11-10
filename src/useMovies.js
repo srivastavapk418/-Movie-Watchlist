@@ -7,7 +7,6 @@ export function useMovies(query, callback) {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState("");
 
-  // eslint-disable-next-line react-hooks/exhaustive-deps
   useEffect(
     function () {
       callback?.();

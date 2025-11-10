@@ -1,6 +1,6 @@
 # 🎬 Movie Watchlist — React App
 
-A modern and responsive **React** movie watchlist app that lets you search movies using the **OMDb API**, view their details, rate them using a **custom star rating system**, and add them to a **watched list** that persists using **localStorage**.  
+A modern **React** movie watchlist app that lets you search movies using the **OMDb API**, view their details, rate them using a **custom star rating system**, and add them to a **watched list** that persists using **localStorage**.  
 Everything is **frontend-only**, built entirely with React hooks and reusable components.
 
 ---
@@ -36,7 +36,9 @@ Everything is **frontend-only**, built entirely with React hooks and reusable co
 ---
 
 ## 📸 Screenshots
-
+<img width="1920" height="855" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/f643ad59-96f4-4e1f-a378-77cf7890bae4" />
+<img width="1920" height="847" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/926de60b-fe88-465a-8d2e-87f914fddff3" />
+<img width="1920" height="850" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/2351ca0f-47ed-433b-8b37-b8ca6417f777" />
 
 ---
 

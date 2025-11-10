@@ -6,7 +6,7 @@ Everything is **frontend-only**, built entirely with React hooks and reusable co
 ---
 
 ## 🌐 Live Demo
-[Visit App Here](https://your-vercel-deployed-link.vercel.app)
+[Visit App Here](https://movie-watchlist-dusky-zeta.vercel.app/)
 
 ---
 
